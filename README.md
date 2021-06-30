@@ -17,19 +17,6 @@ Ctrl B D để thoát
 ### Chạy tmux thứ hai
 
 ```
-tmux new -s ngrok-extend
-```
-
-Gõ:
-```
-./ngrok http 5005
-```
-
-Ctrl B D để thoát
-
-### Chạy tmux thứ ba
-
-```
 tmux new -s rasa-custom
 ```
 
