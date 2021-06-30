@@ -25,3 +25,9 @@ Gõ
 ```
 python3 rasa-custom.py
 ```
+
+Endpoint:
+
+```
+<domain ngrok>/webhooks/rest/webhook
+```
