@@ -1,5 +1,22 @@
 # Cách sử dụng
 
+### Load docker image
+
+```
+docker load < fiba.tar
+```
+
+Báo như dưới đây là ok:
+```
+Loaded image: fiba:latest
+```
+
+Khởi động docker
+
+```
+docker run -it fiba:latest
+```
+
 Nếu máy server k có giao diện thì dùng tmux để chạy server
 
 ### Chạy tmux thứ nhất
