@@ -1,5 +1,8 @@
 # Cách sử dụng
 
+Link docker image .tar:
+https://drive.google.com/file/d/1-1Ln_0MOQm8TnSK2TtA2EoUlzMGJWuSG/view?usp=sharing
+
 ### Load docker image
 
 ```
