@@ -6,7 +6,7 @@
 docker load < fiba.tar
 ```
 
-Báo như dưới đây là ok:
+Báo như dưới đây là thành công:
 ```
 Loaded image: fiba:latest
 ```
